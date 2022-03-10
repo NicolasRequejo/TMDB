@@ -1,0 +1,14 @@
+.isImage {
+  width: auto;
+}
+
+.is-vcentred {
+  display: flex;
+  flex-direction: column;
+}
+
+figure img.is-rounded {
+  height: 30rem;
+  width: auto;
+  margin: auto;
+}

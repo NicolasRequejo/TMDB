@@ -12,3 +12,12 @@
 -Diferenciar las rutas de front-end para películas y programas de
 televisión.
 -Mantener sesión abierta ante un cierre del browser o refresh
+
+Requisitos:
+*Npm
+*Postgres
+Instalación:
+1-Crear la database: createdb nrmovies 
+2-npm install
+3-Compruebe los scripts de ejecución en package.json
+4-npm start para correr el front y el back 
